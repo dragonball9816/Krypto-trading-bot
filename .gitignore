@@ -1,0 +1,7 @@
+etc/*.json
+app
+build
+test/coverage
+node_modules
+*.js.map
+.DS_Store
